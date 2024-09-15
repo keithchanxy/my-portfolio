@@ -342,7 +342,7 @@ const AboutPage = () => {
       <div className="h-20" />
 
       {/* Page title */}
-      <h1 className={"text-4xl font-bold mb-10 mt-20"}>About me</h1>
+      <h1 className={"text-4xl font-bold mb-10 mt-20"}>About me heehe</h1>
 
       {/* About me Description */}
       <p className="mb-4">Hi I'm Keith.</p>
