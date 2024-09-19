@@ -65,7 +65,7 @@ export const SideBar = () => {
       <div className="flex flex-col items-start gap-4 p-4">
         <div className="p-4">
           <p className="font-semibold text-3xl">Keith Chan</p>
-          <p className="text-gray-500">Computational Designer</p>
+          <p className="text-gray-500">Computational Design Specialist</p>
         </div>
 
         <Button asChild variant={"ghost"}>
