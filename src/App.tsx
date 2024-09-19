@@ -65,7 +65,7 @@ export const SideBar = () => {
       <div className="flex flex-col items-start gap-4 p-4">
         <div className="p-4">
           <p className="font-semibold text-3xl">Keith Chan</p>
-          <p className="text-gray-500">Computational Designer</p>
+          <p className="text-gray-500">Computational Design Specialist</p>
         </div>
 
         <Button asChild variant={"ghost"}>
@@ -345,7 +345,7 @@ const AboutPage = () => {
       <h1 className={"text-4xl font-bold mb-10 mt-20"}>About me</h1>
 
       {/* About me Description */}
-      <p className="mb-4">Hi I'm Keith. HEHE</p>
+      <p className="mb-4">Hi I'm Keith.</p>
       <p className="mb-4">
         My journey into computational design began during my internship at
         Witteveen+Bos, where I discovered the potential of algorithm-driven
