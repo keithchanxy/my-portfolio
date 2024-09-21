@@ -2,6 +2,7 @@
 @tailwind components;
 @tailwind utilities;
 
+
 /*
   1. Use a more-intuitive box-sizing model.
 */
@@ -58,3 +59,4 @@ p, h1, h2, h3, h4, h5, h6 {
     --radius: 0.5rem;
   }
 }
+
