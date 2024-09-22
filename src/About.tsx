@@ -11,7 +11,7 @@ export const AboutPage = () => {
       <div className="h-20" />
 
       {/* Page title */}
-      <h1 className={"text-5xl font-extrabold text-cyan-500 mb-10"}>About Me</h1>
+      <h1 className={"text-5xl font-extrabold text-cyan-500 mb-10 mt-10"}>About Me</h1>
 
       {/* About me Description */}
       {/* <p className="mb-4">
