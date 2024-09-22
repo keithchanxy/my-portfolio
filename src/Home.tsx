@@ -1,4 +1,5 @@
-import testingImage from "./assets/Keith_IC_Photo.jpg";
+
+import Image from "./assets/Image01.jpg";
 
 export const HomePage = () => {
     return (
@@ -7,18 +8,14 @@ export const HomePage = () => {
             <div className="h-20" />
 
             <div className="flex justify-center">
-                <div className="w-60 h-60 rounded-full overflow-hidden">
-                    <img src={testingImage} alt="Your Image Description" className="w-full h-full object-cover" />
+                <div className="w-80 h-80 rounded-full overflow-hidden mb-10 ">
+                    <img src={Image} alt="Your Image Description" className="w-full h-full object-cover" />
                 </div>
             </div>
 
-            <p className={"text-5xl font-bold mb-2"}>Hello! I'm </p>
-
-            <p className={"text-9xl font-extrabold text-cyan-500 mb-2"}> Keith </p>
-
-            <p className="text-3xl font-bold text-gray-400">
-                A Computational Design Specialist
-            </p>
+            <p className={"text-6xl font-bold flex justify-center mb-4"}>Hello! I'm </p>
+            <p className={"text-9xl font-extrabold flex justify-center text-cyan-500 mb-4"}> Keith </p>
+            <p className="text-4xl font-bold flex justify-center text-gray-400">A Computational Design Specialist</p>
 
             
         </div>

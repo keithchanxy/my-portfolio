@@ -24,7 +24,7 @@ export const AboutPage = () => {
       <p className="text-justify mb-4">
         Since then, with over 4 years of experience in computational design,
         I've had the opportunity to work with industry leaders like Lendlease
-        Singapore (Podium), JTC Corporation, and Mott MacDonald Singapore, where
+        Digital Asia (Podium), JTC Corporation, and Mott MacDonald Singapore, where
         I have designed and developed custom Grasshopper plugins, automated BIM
         workflows, and integrated computational design techniques to solve
         complex challenges.
