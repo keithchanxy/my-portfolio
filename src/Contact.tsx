@@ -1,12 +1,12 @@
 
 export const ContactPage = () => {
     return (
-        <div className={"px-4 ml-0 max-w-[800px] md:ml-[400px]"}>
+        <div className={"flex flex-col justify-center items-center text-center px-4 max-w-[800px] md:ml-[400px] mx-auto"}>
             {/* Bottom spacer */}
             <div className="h-20" />
 
             {/* Page title */}
-            <h1 className={"text-5xl font-extrabold text-cyan-500 mb-10"}>Get In Touch!</h1>
+            <h1 className={"text-6xl font-extrabold text-cyan-500 mb-20"}>Get In Touch!</h1>
 
             <p className="text-justify mb-4">
                 Thank you for your interest in my portfolio.
@@ -46,12 +46,13 @@ export const ContactPage = () => {
                 </a>
             </div>
 
-            <p className="text-justify mb-4">Feel free to reach out via email: 
+            <p className="text-justify mb-4">Feel free to reach out via email:
                 <a href="mailto:yourname@email.com" className="text-blue-500 hover:underline"> keithchanxy@gmail.com</a>
             </p>
+
+            {/* Bottom spacer */}
+            <div className="h-20" />
         </div>
-
-
 
     );
 }

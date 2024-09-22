@@ -20,7 +20,13 @@ export const ProjectsPage = () => {
                         façades for feasibility studies.
                     </p>
                     <div className="w-full h-96 bg-gray-300 flex items-center justify-center mb-4">
-                        <span className="text-gray-500">Video 1</span>
+                        <iframe
+                            src="https://youtu.be/ogVh1oARGuM?list=RDIJ-VipCCsRM" // Replace with your video URL
+                            className="w-full h-full"
+                            frameBorder="0"
+                            allowFullScreen
+                            title="Project Video"
+                        ></iframe>
                     </div>
                     <p className={"text-2xl font-semibold mb-3"}>Responsibilities</p>
                     <ul className={"text-justify ml-10 list-decimal mb-4"}>
