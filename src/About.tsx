@@ -1,7 +1,12 @@
+import About01 from "./assets/About01.jpg";
+import About02 from "./assets/About02.jpg";
+import About03 from "./assets/About03.jpg";
+import About04 from "./assets/About04.jpg";
+import About05 from "./assets/About05.jpg";
 
 export const AboutPage = () => {
   return (
-    <div className={"px-4 ml-0 max-w-[800px] md:ml-[400px]"}>
+    <div className={"px-4 ml-0 max-w-[800px] md:ml-[400px] "}>
       {/* Top spacer */}
       <div className="h-20" />
 
@@ -45,27 +50,47 @@ export const AboutPage = () => {
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
         {/* Image 1 */}
         <div className="w-full h-64 bg-gray-300 flex items-center justify-center">
-          <span className="text-gray-500">Image 1</span>
+          <img
+            src={About01}
+            alt="Your Image Description"
+            className="w-full h-full object-cover">
+          </img>
         </div>
 
         {/* Image 2 */}
         <div className="w-full h-64 bg-gray-300 flex items-center justify-center">
-          <span className="text-gray-500">Image 2</span>
+        <img
+            src={About02}
+            alt="Your Image Description"
+            className="w-full h-full object-cover">
+          </img>
         </div>
 
         {/* Image 3 */}
         <div className="w-full h-64 bg-gray-300 flex items-center justify-center">
-          <span className="text-gray-500">Image 3</span>
+        <img
+            src={About03}
+            alt="Your Image Description"
+            className="w-full h-full object-cover">
+          </img>
         </div>
 
         {/* Image 4 */}
         <div className="w-full h-64 bg-gray-300 flex items-center justify-center">
-          <span className="text-gray-500">Image 4</span>
+        <img
+            src={About04}
+            alt="Your Image Description"
+            className="w-full h-full object-cover">
+          </img>
         </div>
 
         {/* Image 5 */}
         <div className="w-full h-64 bg-gray-300 flex items-center justify-center">
-          <span className="text-gray-500">Image 5</span>
+        <img
+            src={About05}
+            alt="Your Image Description"
+            className="w-full h-full object-cover">
+          </img>
         </div>
       </div>
 
