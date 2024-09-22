@@ -20,7 +20,7 @@ export const ProjectsPage = () => {
                         façades for feasibility studies.
                     </p>
                     <div className="flex items-center justify-center mb-4">
-                        <iframe width="560" height="315" src="https://www.youtube.com/embed/GcBnghnF1Hw?si=EhhMFkwHLFeIR7L1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                        <iframe width="560" height="315" src="https://www.youtube.com/embed/GcBnghnF1Hw?si=EhhMFkwHLFeIR7L1" title="YouTube video player"></iframe>
                     </div>
                     <p className={"text-2xl font-semibold mb-3"}>Responsibilities</p>
                     <ul className={"text-justify ml-10 list-decimal mb-4"}>
@@ -77,7 +77,7 @@ export const ProjectsPage = () => {
                         engineering projects.
                     </p>
                     <div className="flex items-center justify-center mb-4">
-                        <iframe width="560" height="315" src="https://www.youtube.com/embed/rSzh_vKSAzw?si=xiGJ2cyx7P2hnYdI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                        <iframe width="560" height="315" src="https://www.youtube.com/embed/rSzh_vKSAzw?si=xiGJ2cyx7P2hnYdI" title="YouTube video player"></iframe>
                     </div>
                     <p className={"text-2xl font-semibold mb-3"}>Responsibilities</p>
                     <ul className={"text-justify ml-10 list-decimal mb-4"}>
@@ -134,7 +134,7 @@ export const ProjectsPage = () => {
                         time spent and increasing modelling efficiency.
                     </p>
                     <div className="flex items-center justify-center mb-4">
-                    <iframe width="560" height="315" src="https://www.youtube.com/embed/nFo_uZMeClU?si=Ec-k75gwT9jYxkQl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                    <iframe width="560" height="315" src="https://www.youtube.com/embed/nFo_uZMeClU?si=Ec-k75gwT9jYxkQl" title="YouTube video player"></iframe>
                     </div>
                     <p className={"text-2xl font-semibold mb-3"}>Responsibilities</p>
                     <ul className={"text-justify ml-10 list-decimal mb-4"}>
