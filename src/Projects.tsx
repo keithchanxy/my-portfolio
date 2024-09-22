@@ -6,7 +6,7 @@ export const ProjectsPage = () => {
             <div className="h-20" />
 
             {/* Page title */}
-            <h1 className={"text-5xl font-extrabold text-cyan-500 mb-10"}>Projects</h1>
+            <h1 className={"text-5xl font-extrabold text-cyan-500 mb-10 mt-10"}>Projects</h1>
 
             {/* Projects */}
             <div className="flex flex-col gap-20">
@@ -19,14 +19,8 @@ export const ProjectsPage = () => {
                         enhance the design process and performance analysis of building
                         façades for feasibility studies.
                     </p>
-                    <div className="w-full h-96 bg-gray-300 flex items-center justify-center mb-4">
-                        <iframe
-                            src="https://youtu.be/ogVh1oARGuM?list=RDIJ-VipCCsRM" // Replace with your video URL
-                            className="w-full h-full"
-                            frameBorder="0"
-                            allowFullScreen
-                            title="Project Video"
-                        ></iframe>
+                    <div className="flex items-center justify-center mb-4">
+                        <iframe width="560" height="315" src="https://www.youtube.com/embed/GcBnghnF1Hw?si=EhhMFkwHLFeIR7L1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
                     </div>
                     <p className={"text-2xl font-semibold mb-3"}>Responsibilities</p>
                     <ul className={"text-justify ml-10 list-decimal mb-4"}>
@@ -82,8 +76,8 @@ export const ProjectsPage = () => {
                         improving data reconciliation accuracy for architectural and
                         engineering projects.
                     </p>
-                    <div className="w-full h-96 bg-gray-300 flex items-center justify-center mb-4">
-                        <span className="text-gray-500">Video 2</span>
+                    <div className="flex items-center justify-center mb-4">
+                        <iframe width="560" height="315" src="https://www.youtube.com/embed/rSzh_vKSAzw?si=xiGJ2cyx7P2hnYdI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
                     </div>
                     <p className={"text-2xl font-semibold mb-3"}>Responsibilities</p>
                     <ul className={"text-justify ml-10 list-decimal mb-4"}>
@@ -139,8 +133,8 @@ export const ProjectsPage = () => {
                         manual 2D modelling of various scenarios, significantly decreasing
                         time spent and increasing modelling efficiency.
                     </p>
-                    <div className="w-full h-96 bg-gray-300 flex items-center justify-center mb-4">
-                        <span className="text-gray-500">Video 3</span>
+                    <div className="flex items-center justify-center mb-4">
+                    <iframe width="560" height="315" src="https://www.youtube.com/embed/nFo_uZMeClU?si=Ec-k75gwT9jYxkQl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
                     </div>
                     <p className={"text-2xl font-semibold mb-3"}>Responsibilities</p>
                     <ul className={"text-justify ml-10 list-decimal mb-4"}>
