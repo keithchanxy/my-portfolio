@@ -1,3 +1,4 @@
+import ProjectImage01 from "./assets/ProjectImage01.png";
 
 export const ProjectsPage = () => {
     return (
@@ -134,7 +135,7 @@ export const ProjectsPage = () => {
                         time spent and increasing modelling efficiency.
                     </p>
                     <div className="flex items-center justify-center mb-4">
-                    <iframe width="560" height="315" src="https://www.youtube.com/embed/nFo_uZMeClU?si=Ec-k75gwT9jYxkQl" title="YouTube video player"></iframe>
+                        <iframe width="560" height="315" src="https://www.youtube.com/embed/nFo_uZMeClU?si=Ec-k75gwT9jYxkQl" title="YouTube video player"></iframe>
                     </div>
                     <p className={"text-2xl font-semibold mb-3"}>Responsibilities</p>
                     <ul className={"text-justify ml-10 list-decimal mb-4"}>
@@ -194,8 +195,12 @@ export const ProjectsPage = () => {
                         facilitating easy data identification and significantly reducing the
                         need for manual checks.
                     </p>
-                    <div className="w-full h-96 bg-gray-300 flex items-center justify-center mb-4">
-                        <span className="text-gray-500">Video 4</span>
+                    <div className="w-full h-64 bg-gray-300 flex items-center justify-center mb-4">
+                        <img
+                            src={ProjectImage01}
+                            alt="Your Image Description"
+                            className="w-full h-full object-cover">
+                        </img>
                     </div>
                     <p className={"text-2xl font-semibold mb-3"}>Responsibilities</p>
                     <ul className={"text-justify ml-10 list-decimal mb-4"}>
