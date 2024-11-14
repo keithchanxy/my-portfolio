@@ -18,21 +18,27 @@ export const AboutPage = () => {
           Hi I'm Keith.
         </p> */}
       <p className="text-justify mb-4">
-        My journey into computational design began during my internship at
-        Witteveen+Bos, where I discovered the potential of algorithm-driven
-        design to automate repetitive tasks and streamline design processes.
-        This sparked a deep interest in computational tools, leading me to
-        self-learn about visual programming platforms like Grasshopper and
-        Dynamo, high level programming languages such as C# and Python, and
-        apply them in my academic and professional projects.
+        What began as a graduate journey in Sustainable Infrastructure Engineering 
+        (Building Services) from Singapore Institute of Technology quickly transformed 
+        into a deep passion for digital solutions within the built environment. I am dedicated 
+        to leveraging computational design and algorithm-driven techniques to expand what’s 
+        possible in architecture and engineering. 
       </p>
       <p className="text-justify mb-4">
-        Since then, with over 4 years of experience in computational design,
-        I've had the opportunity to work with industry leaders like Lendlease
-        Digital Asia (Podium), JTC Corporation, and Mott MacDonald Singapore, where
-        I have designed and developed custom Grasshopper plugins, automated BIM
-        workflows, and integrated computational design techniques to solve
-        complex challenges.
+        Captivated by the potential of computational tools to streamline processes, automate tasks, 
+        and inform decision-making, I expanded my expertise through self-teaching tools like Grasshopper 
+        and Dynamo, as well as developing proficiency in C# and Python. These skills have empowered me to 
+        lead impactful projects—such as the Revit Model Checker, Automated Industrial Building Generation, 
+        and data-driven solutions for 4D-5D BIM—that demonstrate my commitment to advancing innovation 
+        and efficiency in BIM and automation. 
+      </p>
+      <p className="text-justify mb-4">
+        With over 4 years of experience in computational design and computational BIM,
+        I've had the opportunity to work with industry leaders like Lendlease Digital Asia (Podium), 
+        JTC Corporation, Mott MacDonald Singapore and Witteveen+Bos Singapore. Known for my adaptability 
+        and enthusiasm for new challenges, I continually push my technical boundaries to optimize workflows 
+        and drive meaningful results. With a proactive approach to learning and a versatile skillset, 
+        I strive to bring innovative, efficient solutions to every project I undertake. 
       </p>
       <p className="text-justify mb-4">
         Outside of work, I stay active with road cycling, hiking, and running,
